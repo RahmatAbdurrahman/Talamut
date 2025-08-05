@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">EcoScan</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="guide_organik"><![CDATA[
+<b>Sampah Organik</b><br/>
+Sampah organik adalah semua jenis sampah yang berasal dari sisa makhluk hidup dan dapat terurai secara alami oleh mikroorganisme.<br/><br/>
+<b>Ciri-ciri:</b><br/>
+• Mudah membusuk dan terurai.<br/>
+• Biasanya basah dan memiliki bau yang khas jika dibiarkan terlalu lama.<br/><br/>
+<b>Contoh:</b><br/>
+• <i>Sisa dapur</i>: Sisa makanan, kulit buah, potongan sayuran, ampas kopi/teh, cangkang telur.<br/>
+• <i>Sampah kebun</i>: Daun kering, rumput, ranting kecil, bunga layu.<br/>
+• <i>Lainnya</i>: Tulang ikan/ayam, tisu bekas makanan (yang tidak berminyak).<br/><br/>
+<b>Cara Pengelolaan:</b><br/>
+1. Komposter<br/>
+2. Pakan Ternak<br/>
+3. Pupuk Organik Cair<br/><br/>
+<b>Manfaat:</b><br/>
+• Mengurangi volume sampah ke TPA.<br/>
+• Menghasilkan pupuk alami.<br/>
+• Mencegah bau busuk.
+]]></string>
+
+    <string name="guide_nonorganik"><![CDATA[
+<b>Sampah Non-Organik (Daur Ulang)</b><br/>
+Sampah non-organik adalah sampah buatan manusia yang sulit atau tidak bisa terurai secara alami.<br/><br/>
+<b>Ciri-ciri:</b><br/>
+• Tidak mudah membusuk.<br/>
+• Umumnya kering dan bisa didaur ulang.<br/><br/>
+<b>Contoh:</b><br/>
+• <i>Plastik</i>: Botol air mineral, botol sampo, kresek, dll.<br/>
+• <i>Kertas</i>: Koran, HVS, kardus.<br/>
+• <i>Kaca</i>: Botol, toples.<br/>
+• <i>Logam</i>: Kaleng.<br/><br/>
+<b>Cara Pengelolaan:</b><br/>
+1. Prinsip 3R (Reduce, Reuse, Recycle)<br/>
+2. Bersihkan & keringkan<br/>
+3. Setor ke bank sampah<br/>
+4. Beri ke pemulung<br/><br/>
+<b>Manfaat:</b><br/>
+• Menghemat sumber daya.<br/>
+• Hemat energi produksi.<br/>
+• Menciptakan lapangan kerja.<br/>
+• Kurangi pencemaran.
+]]></string>
+
+    <string name="guide_b3"><![CDATA[
+<b>Sampah B3 (Bahan Berbahaya dan Beracun)</b><br/>
+Sampah B3 mengandung zat atau energi yang membahayakan manusia dan lingkungan.<br/><br/>
+<b>Ciri-ciri:</b><br/>
+• Ada simbol bahaya.<br/>
+• Mengandung bahan kimia atau logam berat.<br/><br/>
+<b>Contoh:</b><br/>
+• <i>Elektronik</i>: Baterai, charger, kartrid.<br/>
+• <i>Kimia rumah</i>: Obat nyamuk, pembersih, aerosol.<br/>
+• <i>Medis</i>: Masker, jarum suntik.<br/>
+• <i>Lain</i>: Oli, cat, thinner.<br/><br/>
+<b>Cara Pengelolaan:</b><br/>
+1. Jangan dicampur.<br/>
+2. Jangan buang sembarangan.<br/>
+3. Simpan terpisah dan beri label.<br/>
+4. Serahkan ke DLH atau dropbox resmi.<br/><br/>
+<b>Manfaat:</b><br/>
+• Cegah pencemaran lingkungan.<br/>
+• Lindungi petugas kebersihan.<br/>
+• Pastikan limbah dikelola aman.
+]]></string>
+
+</resources>
